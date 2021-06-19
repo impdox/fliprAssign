@@ -25,3 +25,4 @@ You can make the post request at "http://localhost:3000/location" (For local tes
  it returns the result if success, with the status code 200
 
 note: can be deployed from deployed server too."# flipr" 
+"# fliprAssign" 

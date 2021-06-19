@@ -24,4 +24,4 @@ You can make the post request at "http://localhost:3000/location" (For local tes
  by passing an array of address names in the body, like this ["Patna, India","Bihar, india","Kollam, india"] It will generate the latitude and longitude of them, also
  it returns the result if success, with the status code 200
 
-note: can be deployed from deployed server too.
+note: can be deployed from deployed server too."# flipr" 
